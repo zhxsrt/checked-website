@@ -1,0 +1,24 @@
+{
+  "name": "checked-website",
+  "version": "1.0.0",
+  "description": "使用puppeteer模拟签到",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhxsrt/checked-website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhxsrt/checked-website/issues"
+  },
+  "homepage": "https://github.com/zhxsrt/checked-website#readme",
+  "dependencies": {
+    "puppeteer": "^10.4.0",
+    "puppeteer-extra": "^3.2.3"
+  }
+}
